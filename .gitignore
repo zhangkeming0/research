@@ -1,15 +1,12 @@
-<<<<<<< HEAD
 #忽略vscode目录下所有文件
 .vscode/*
 # 忽略所有编译中间文件
 *.[oa]
 #忽略所有EXE文件
-=======
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
 *.[oa]
->>>>>>> 858553d6748005e1bafaf5542ee38f879c83b103
 *.exe

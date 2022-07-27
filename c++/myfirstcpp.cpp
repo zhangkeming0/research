@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <iostream>
 using namespace std;
 
@@ -15,5 +16,13 @@ int main(void)
 		s += 1 << i;
 	}
 	cout << s << endl;
+=======
+#include<iostream>
+int main()
+{
+	using namespace std;
+	cout<<"hello world!";
+	cout<<endl;
+>>>>>>> 858553d6748005e1bafaf5542ee38f879c83b103
 	return 0;
 }

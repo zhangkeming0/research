@@ -3,8 +3,6 @@ using namespace std;
 
 int main()
 {
-
-    // write your code here......
     char zifu;
     int shuzi;
     long chang;

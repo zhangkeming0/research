@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/master
 #include <iostream>
 using namespace std;
 
@@ -17,9 +14,6 @@ int main(void)
 		s += 1 << i;
 	}
 	cout << s << endl;
-<<<<<<< HEAD
-=======
 
 	return 0;
->>>>>>> origin/master
 }

@@ -5,6 +5,7 @@
         "clang-diagnostic-error"
     ],
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }

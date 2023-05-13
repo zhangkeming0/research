@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main(char *argc,char *argv){
+int main(int argc,char **argv){
   int i = 0, &ri = i;
   i = 5;
   ri = 10;
